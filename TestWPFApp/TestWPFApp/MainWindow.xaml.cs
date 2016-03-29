@@ -29,7 +29,7 @@ namespace TestWPFApp
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             this.testBrowser.Navigate("http://en.wikipedia.org/");
-            
+            // this.testBrowser.Navigate("http://en.wikipedia.org/");
         }
     }
 }
